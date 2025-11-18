@@ -1,0 +1,15 @@
+{
+  "name": "selemium-webdriver",
+  "version": "1.0.0",
+  "description": "selenium webdriver automation testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shariar_neon",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^6.2.1",
+    "selenium-webdriver": "^4.38.0"
+  }
+}
